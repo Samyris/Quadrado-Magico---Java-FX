@@ -1,2 +1,2 @@
 # Quadrado-Magico---Java-FX
-Atividade Laboratório de Programção de Computadores II
+Atividade Laboratório de Programação de Computadores II
